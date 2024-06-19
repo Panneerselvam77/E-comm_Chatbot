@@ -3,7 +3,7 @@ import "./App.css";
 import ChatBot from "./Component/ChatBot";
 
 function App() {
-  const [active, setActive] = useState(false);
+  const [active, setActive] = useState(true);
 
   return (
     <div className="App">
